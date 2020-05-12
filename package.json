@@ -1,0 +1,24 @@
+{
+  "name": "covid-19-date",
+  "version": "1.0.0",
+  "description": "a plethora of datenight activities, abiding social distancing norms",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberBullier/Async-Youtube.git"
+  },
+  "author": " <Your Name> (example.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyberBullier/Async-Youtube/issues"
+  },
+  "homepage": "https://github.com/CyberBullier/Async-Youtube#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
